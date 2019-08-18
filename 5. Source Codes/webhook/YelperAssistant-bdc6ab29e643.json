@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yelperassistant",
+  "private_key_id": "bdc6ab29e64331ba9d56d2ee3f8facf8c686bffc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtDQ483p9IN7v+\nLq71fBxTP5Ik1sdp+rF9VhzA+u9b/rypTyk9bZjPronkDaKG9TZVeMANFuhpag2o\nvsS12vNpHhf7Hy1qrAm0cVRYhzOz63u8JRnrKFCE2oKI1uJ3uqL+HccxtZKrYi0q\n4k0uztIJ7DqV3cUjkeS3HpeijhA/YI7upQO81Ab+0fSLCrWnbIKj4sLGKC65p2yd\nvE8iGcwG08xgR3390zP00PgcNiwpkj427knKODi7gS+MaP8wkI8YqZPSmzZ4XhRO\nnBchI8aNlkJ9NDJyZGVtgUOLn2+cfwGAX94XNtUZMgrHeWkiU7BmaenIAuCxLNZK\ntSrdF0UpAgMBAAECggEAF8Pme+kF3mTbEjQGjouCF1OwZhNB9RW62M/h6IW9p/hi\nn+zRaNB7jy/022cc9iRIVzIbS+Dkv49TO2ShfqkISxwZJoFYWyEvvwJeVz8QFGon\nRsYgmlkhv7EDgrfiB5fPyQ69W6AIObWkptJHz8ES+s5gmFLJv1IKozRWFjqk1BMc\ngODY61YXqXe8lYP6FMwVrw3Rgupmp38PTmkRYuvxoA0s+REgy8PBe74Krz310lS2\n9s9Gsbf6UYbFKJaOtEiIvSlotcav17YouZSJp/8M652AOHXeUbBSGL8jjELTtWHW\no3cMnJpW2HDatSGkLzmRswexxuZqBaDdaL/2xx1+JQKBgQDeHtNR8JD+s6quOp+6\nPJIEHA3J0mD/ZomVxUo0GmJ/U6a2JceXmJI2dENlzBHSsTowrDQx/dG3U9jcgUCs\nwyytuP30k2npJbppc+qoyy3bIaIH61mrbLMMm1ZM5M9txTUu3iJoERfRT1CY4+zK\nmiK8bJRicpT2PvIxaNTT0j3KzQKBgQDHcjVLtVmjVpVivIQqjD+tDajE6G55ZuhB\ny2L1QAoOGkhtdyVNwXWpLIP5UE0qEUx1+NqanGdqJR5A7dNx5crfy+/crgwsLoXf\n3c6r5Nzex+hQyQvG2vPDCripUPAFec6VPJHsGnlWzsKZwpoDrKCf/kKWTKueklEV\nxZ0yrplbzQKBgEzm2z8JTQoB5lwADAEMq3kkxVlUryR9ubDS54f2gpeWvKdfmSTR\nO/4Cbrs11g3eMklbtY6BVDRmoTRmw5+My1EyNSqSRx7jYxDTgzEBd1Tg5hpbz2Xc\ncnkw5sYkifR1TJ53Ze4lzNs43KyybO8QQmp+JTmYdh5zWKLmqpjTt3UZAoGAZmMv\nEQqsVbnhPqrgfqc5GTHl7hAUhqZZnU04JAcYIl1DyU5dDCnAqXR828RpmKsAwZ9b\nOfwI6ujbOyHcZqA9Id6j6HpBLX1EpMRNkNkQuh2OGcrcDN3iPcKHQgSW83iwoNRT\nZQ3CNNo39I9+WVyJqRjyPg5mHCWpErA8HwSbHhECgYBoaEftKuX5Tifnd7GuTUkL\nW4RVMIgqva/oLL/nvlNn2wP7Y+LPawxNrZU8fsqDD4WpleZizEA3kQy2bSvnB7yj\nGgzOiaE72YOIj55hO0JtKsewKm4x0AuXu5YTPLpe8lyqVJ8C6t11b7cidkWm0o9C\nOmf7Q9mmSdWQob1d506law==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-lihyvp@yelperassistant.iam.gserviceaccount.com",
+  "client_id": "113588246713805828368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-lihyvp%40yelperassistant.iam.gserviceaccount.com"
+}
