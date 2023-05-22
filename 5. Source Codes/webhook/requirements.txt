@@ -1,5 +1,5 @@
 Flask==1.0.2
-requests==2.21.0
+requests==2.31.0
 dialogflow==0.6.0
 python-dotenv==0.10.3
 gunicorn==19.9.0
